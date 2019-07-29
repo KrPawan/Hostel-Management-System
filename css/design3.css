@@ -1,0 +1,89 @@
+.heading{
+    color:white;
+    background-color:red ;
+    text-align: center;
+    margin-bottom: 0rem;
+    border-radius: 10px;
+}
+
+.heading2{
+    color:#FFC31E;
+    background-color:#cccccc ;
+    text-align: left;
+    margin-top:0rem;
+    
+}
+   
+.logout{position: absolute;
+  right:15px;
+  top:120px;
+     color:#ffff00;
+    font-size: 1.5rem;
+    text-align: right;
+    
+    
+}
+.logo{
+    position:absolute;
+    left:5px;
+    top:3px;
+}
+.heads{
+   color:#FFC31E;
+    
+}
+
+
+
+@media (min-width: 600px) {
+  .body-position {
+    padding: 1rem 5rem 5rem 5rem;
+  }
+}
+.submit{
+    width: 100%;
+    background-color:darkslateblue ;
+    color: white;
+    padding:2px;
+    margin: 0;
+    font-size: 2rem;
+     margin-top: 5px;   
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+    
+}
+.avtar{
+    
+
+left:1rem;
+top:1rem;
+  padding: 0rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 50%;
+  cursor: pointer;
+  height: 150px ;
+  width:100%;
+ box-shadow:10px 5px 20px #111;
+  
+
+}
+.showprofile{
+    padding:1rem;
+color:white;
+margin-bottom: .2rem;
+   border-style:groove;
+   background-color: #0080ff4d;
+  border-radius: .5rem;
+  border-color:navy;
+  max-height:auto;
+  max-width:auto;
+  height: auto;
+  width:auto;
+  margin:0rem .5rem 1rem .5rem ;
+  z-index: 150;
+}
+.navy{
+    color:white;font-weight: 500;font-size: 1.5rem;text-shadow:3px 3px 5px black;
+}

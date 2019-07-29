@@ -1,0 +1,115 @@
+
+
+input[type=text], select {
+    width: 100%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    background-color:lightgray;
+}
+
+
+input[type=submit]:hover {
+    background-color: #348017;
+    border-color: #FFFF00;
+}
+input[type=reset]:hover {
+    background-color: #348017;
+}
+
+p.yellow{
+    color:#ffff00;
+    font-size: 1.5rem;
+    text-align: left;
+}
+.yellow2{
+    color:#ffff00;
+    font-size: 1rem;
+    text-align: right;
+    padding: 0rem;
+    margin-left: 1rem;
+}
+.orange{
+    color:orange;
+    font-size: 1.5rem;
+    text-align: left;
+    padding: 0rem;
+    margin-left: 1rem;
+}
+.stddetail{
+    color:#00f1ff;
+    font-size: 1rem;
+    text-align: left;
+    padding: 0rem;
+    margin-left: 1rem;
+}
+p.aqua{
+    color:aqua;
+    font-size: 1.5rem;
+}
+hr.white{
+   
+    display: block;
+    height: 1px;
+    border: 0;
+    border-top: 1px solid #ccc;
+    margin: 1em 0;
+    padding: 0; 
+
+}
+
+input[type=button] {
+    width: 100%;
+    background-color:darkslateblue ;
+    color: white;
+    padding:2px;
+    margin: 0;
+    font-size: 2rem;
+     margin-top: 5px;   
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+}
+.img-thumbnail2 {
+  padding: 0rem;
+  background-color: #fff;
+  border: 1px solid #dee2e6;
+  border-radius: 5px;
+  
+  height: auto ;
+  width:90%;
+  margin-left:2rem;
+  margin-top:1rem;
+  
+}
+
+table{
+    border-color: yellow;
+}
+   .btn {
+    background-color: DodgerBlue;
+    border: none;
+    color: white;
+    padding: 5px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    width:100%;
+    margin-bottom:2px; 
+}.btn:hover {
+    background-color: RoyalBlue;
+}
+ .btn2 {alignment-adjust: auto;
+    background-color: DodgerBlue;
+    border: 3;
+    color: white;
+    padding: 5px;
+    font-size: 1.5rem;
+    cursor: pointer;
+    
+    margin-bottom:2px; 
+}.btn2:hover {
+    background-color: RoyalBlue;
+}
